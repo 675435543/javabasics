@@ -1,10 +1,10 @@
 package day27.datasource.druid;
 
-import cn.itcast.utils.JDBCUtils;
+
+import day27.utils.JDBCUtils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**

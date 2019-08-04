@@ -24,7 +24,7 @@ public class Demo03DataTypeChar {
 		int num = zifu3;
 		System.out.println(num); // 99
 		
-		char zifu4 = '中'; // 正确写法
-		System.out.println(zifu4 + 0); // 20013
+//		char zifu4 = '中'; // 正确写法
+//		System.out.println(zifu4 + 0); // 20013
 	}
 }

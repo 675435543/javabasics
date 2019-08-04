@@ -1,7 +1,6 @@
 package day26.jdbc;
 
 
-import cn.itcast.util.JDBCUtils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

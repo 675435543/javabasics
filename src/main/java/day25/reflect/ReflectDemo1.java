@@ -1,7 +1,8 @@
 package day25.reflect;
 
-import cn.itcast.domain.Person;
-import cn.itcast.domain.Student;
+
+import day25.domain.Person;
+import day25.domain.Student;
 
 public class ReflectDemo1 {
 

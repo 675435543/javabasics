@@ -1,6 +1,7 @@
 package day11.demo08;
 
-import cn.itcast.day11.red.RedPacketFrame;
+
+import day11.red.RedPacketFrame;
 
 public class MyRed extends RedPacketFrame {
     /**

@@ -1,6 +1,6 @@
 package day27.jdbctemplate;
 
-import cn.itcast.utils.JDBCUtils;
+import day27.utils.JDBCUtils;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 /**

@@ -1,6 +1,7 @@
 package day26.jdbc;
 
-import cn.itcast.util.JDBCUtils;
+
+import day26.util.JDBCUtils;
 
 import java.sql.*;
 import java.util.Scanner;

@@ -1,7 +1,7 @@
 package day27.jdbctemplate;
 
-import cn.itcast.domain.Emp;
-import cn.itcast.utils.JDBCUtils;
+import day27.domain.Emp;
+import day27.utils.JDBCUtils;
 import org.junit.Test;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

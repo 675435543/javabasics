@@ -1,9 +1,8 @@
 package day25.reflect;
 
-import cn.itcast.domain.Person;
+import day25.domain.Person;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.Field;
 
 public class ReflectDemo3 {
 

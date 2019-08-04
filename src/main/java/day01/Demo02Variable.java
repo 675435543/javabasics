@@ -56,8 +56,8 @@ public class Demo02Variable {
 		char zifu1 = 'A';
 		System.out.println(zifu1); // A
 		
-		zifu1 = '中';
-		System.out.println(zifu1); // 中
+//		zifu1 = '中';
+//		System.out.println(zifu1); // 中
 		
 		boolean var1 = true;
 		System.out.println(var1); // true

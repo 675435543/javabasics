@@ -1,9 +1,5 @@
 package day25.reflect;
 
-import cn.itcast.domain.Person;
-import cn.itcast.domain.Student;
-
-import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.util.Properties;

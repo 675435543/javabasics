@@ -1,7 +1,9 @@
 package day26.jdbc;
 
-import cn.itcast.domain.Emp;
-import cn.itcast.util.JDBCUtils;
+
+
+import day26.domain.Emp;
+import day26.util.JDBCUtils;
 
 import java.sql.*;
 import java.util.ArrayList;
